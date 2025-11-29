@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 > ## Responsive Portfolio Website Mrinmoy
 
 
@@ -13,3 +14,6 @@
 
 
 
+=======
+# personal_portfolio
+>>>>>>> 259402d83f0e8641bef121487fb4fd73b375996d
