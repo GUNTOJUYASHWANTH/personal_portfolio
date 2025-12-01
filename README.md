@@ -8,7 +8,7 @@
   **A fully responsive, interactive personal portfolio website showcasing my skills in Full Stack Development, Data Analytics, and Python.**
 
   <h3>
-    <a href="https://guntojuyashwanth.github.io/personal-portfolio/">🔴 View Live Demo</a>
+    <a href="https://guntojuyashwanth.github.io/personal_portfolio/">🔴 View Live Demo</a>
   </h3>
 </div>
 
